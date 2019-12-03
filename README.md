@@ -18,4 +18,8 @@ Displays a formatted team roster with each team member with following details:
 
 
 GIF:
+
 ![](team_profile_generator.gif)   
+
+Files:
+[Output HTML File](https://github.com/AnyaFareena/Team-Profile-Generator/blob/master/output/index.html
