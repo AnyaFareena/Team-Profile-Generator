@@ -4,7 +4,7 @@ The application will prompt the for information about the team manager and then 
 You can input any number of team members including engineers and interns.
 
 Templates are:
-    main.html
+    employee.html
     engineer.html
     intern.html
     manager.html
@@ -12,7 +12,10 @@ Templates are:
 Output:
 Displays a formatted team roster with each team member with following details:
     Name
-    Role
     ID
+    Email
     Role-specific details
-    
+
+
+GIF:
+![](team_profile_generator.gif)   
